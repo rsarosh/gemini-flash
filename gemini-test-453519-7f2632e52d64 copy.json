@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gemini-test-453519",
+  "private_key_id": "77777",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADAAAoIBAQDN8Jz0R+4E3T50\noo3nCwn0bfDG04oE1o4KUHYHxhSc+diZm6ZEWP9+aI6OUYPLMt1ZUB8VldGlrH60\nPemdapsFbsyMlboLuZsSgHhjIxf0Q6O40X2HVYlj4AyQ9agiayvB74VRXXYjPrpm\ncDLiLTIG8aZSRDjWqe4yIk3VRKN85XI43pRHRcBLR/oilIw50JA9Bck+r7wCvZfE\nT9aRlGrsL7yoYNVBZv1SdZRmHmpTW8LbLsZyo2xh8gR/Am0IXCYUcY+lGO15X8R9\nWKaozsPwfp93Ou0re0QPy+TK6+RFVBULbP+aJY2c0O+nFtrwkzHKQkZ0B4vwaejL\nYRMeP07HAgMBAAECggEAArX2xZsSHaub4C/Tllr61+Yqk94XpFX+q1Fr0aZggcB4\nLW1zFCs9EbjmnND4idAy7F4K9V8c0gV3QCrLIcX+zGTXpHIZb4C98ycQbp2jpGok\n2ZCdtQ5XL01fsk4e1x/PWk+A0xVb3L2So+Pjh5P4uJwDCHTaxViZ82b9h0p5VxzY\nA9+/GsrgrEDMp86jlMK70dQAq3H4OhMnPfPJQuVUOMSZRrvn3UajIF950woHIowS\nrU8gkF40mWYcrvTGHXiwhqeuQcT5da1v9eFCMsXkGtS0VhLCOYAUZDivH9GEyo84\no83kECuSSwoXz091rz6/DL36T3XiZKDM9BHp+0Zl4QKBgQD1S5iYYdjC+gHkBO0c\nF3PFZZy+hbnAi97bSQDQqudGAUJU55/JK7xhXnRSwNfy/cwI76lk7yji6A7ASmS8\ntQw+xBRan32VumPOAcbHtjR0dCN/a1mvhG7xeY4qfwhSwQW2VGyJfHPlRMUV+9hH\nsoz9V80mW6+mJqGkLsCM1VCxwwKBgQDW7VgXoZK8r2cNoG9vIBfF7TmcfmjTF7Jt\nBOU3WwbT+VLh0WrPl373QGOFvwmtxDBm0Hm/CsSi6qQh3Fgg0kgwT+g2keclGrY7\n7Y6uqpBbJEbMIYPGFScQBkr6pFQndBRxmcMr6MhFcUE2PEb8FYmtrLZL+8wSJjaW\nQfVhh7s6rQKBgQC3rEhx6ep2bN/XjnzBaSouKB0LaHSjodhY2Lw8g4wzliPGEb5K\n0232dtShVncdIz+RfWuZAZ/a8CqDf/EYgHTP1uDqzrwpzmyHSDtBNcTnYkNmWMrK\nK18rf3qdhYuE87XERkkTVdYuWaU+Bdt4LFF4LjOWQlcvEYQ9vSg/DEelIwKBgQDU\nt31rjgdr5fIJw5Lmmg3NYBeX8miPHDIEwkaWfeoJHAdS5nBfW2JXFgwqEERlDfqV\nl5oXYXHyiGa/+JPkkBrQbhW3BLqPt5tLPrfr2XYcLpA/cqA4CTFrI79LyB5eGf4t\n3PAU4kRsrkXLhub+kdZ85KZcF68G+3klR8yzpaHB1QKBgDtu6abViwiXyi9e1Gd8\nfngzkx6HrG7y3h42BusnafAKkZcIUudzn18D971PgMRGJ8l/OcTjVIi7iImT9KLY\nNZpaWLI+Sg1A+dAqZ7XqAb1g6hgC1IT18C3PUHCLA6KZpxDldwC62NonARVpsIAt\n+o0oNu+GJQ416PabRGECpAkB\n-----END PRIVATE KEY-----\n",
+  "client_email": "gemini-testing@gemini-test-453519.iam.gserviceaccount.com",
+  "client_id": "88888888",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gemini-testing%40gemini-test-453519.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
