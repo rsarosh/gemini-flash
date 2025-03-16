@@ -21,6 +21,10 @@ pip install -r requirements.txt
      ```
      GOOGLE_API_KEY=your_api_key_here
      ```
+How to get the keys, check this page: https://ai.google.dev/gemini-api/docs/api-key
+
+To get your keys
+https://aistudio.google.com/app/apikey
 
 ## Usage
 
@@ -39,13 +43,6 @@ The script will:
 # to run the code
 
 python main.py openintro-statistics.pdf
-
-
-# calling the agent from the code
-https://gemini.google.com/app/b397f0dba3753591?_gl=1*v3rfs2*_ga*MTg0NDU4NzY0LjE3MTgxMzE2NDk.*_ga_WC57KJ50ZZ*MTcxODgyMjYxNC4yLjEuMTcxODgyMjgzMy4wLjAuMA..
-
-# Agent builder
-https://cloud.google.com/generative-ai-app-builder/docs/try-enterprise-search
 
 
 # To enable the Vertex API
