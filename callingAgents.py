@@ -7,9 +7,8 @@ import vertexai
 from vertexai.generative_models import GenerativeModel, Part
 
 
- 
 def main():
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "gemini-test-453519-7f2632e52d64.json"
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "gemini.json"
     project_id = "gemini-test-453519"  # Replace with your project ID
     location = "us-central1"  # Replace with your location
     model_name = "gemini-pro" # or "gemini-pro-vision"

@@ -2,3 +2,5 @@ google-genai
 google-generativeai==0.8.4
 python-dotenv==1.0.1
 PyPDF2
+vertexai
+google-cloud-aiplatform
